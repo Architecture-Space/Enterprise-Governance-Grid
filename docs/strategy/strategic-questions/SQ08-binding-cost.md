@@ -5,7 +5,7 @@
 | Status | Playbook + cost template |
 | Decision | Evidence W5 · report W6 |
 | Owner | Mihai (retrofit) · Chris (greenfield) |
-| Demo | [/demo/customer360/questions?q=SQ8](https://swapkodgire.github.io/Enterprise_governance_grid/demo/customer360/questions?q=SQ8) (Strategic Qs page) |
+| Demo | [/demo/customer360/questions?q=SQ8](https://architecture-space.github.io/Enterprise-Governance-Grid/demo/customer360/questions?q=SQ8) (Strategic Qs page) |
 
 ## The question
 

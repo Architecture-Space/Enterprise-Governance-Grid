@@ -5,7 +5,7 @@
 | Status | POC criteria |
 | Decision | W6 |
 | Owner | Architecture |
-| Demo | [/demo/customer360/questions?q=SQ6](https://swapkodgire.github.io/Enterprise_governance_grid/demo/customer360/questions?q=SQ6) (Strategic Qs page) |
+| Demo | [/demo/customer360/questions?q=SQ6](https://architecture-space.github.io/Enterprise-Governance-Grid/demo/customer360/questions?q=SQ6) (Strategic Qs page) |
 
 ## The question
 

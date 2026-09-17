@@ -5,7 +5,7 @@
 | Status | Candidate amendment |
 | Decision | Draft W6 · ratify with strategy owners |
 | Owner | Vincent |
-| Demo | [/demo/customer360/questions?q=SQ12](https://swapkodgire.github.io/Enterprise_governance_grid/demo/customer360/questions?q=SQ12) (Strategic Qs page) |
+| Demo | [/demo/customer360/questions?q=SQ12](https://architecture-space.github.io/Enterprise-Governance-Grid/demo/customer360/questions?q=SQ12) (Strategic Qs page) |
 
 ## The question
 

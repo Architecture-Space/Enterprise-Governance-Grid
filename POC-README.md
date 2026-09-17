@@ -18,7 +18,7 @@ cd ../../frontend && npm install && npm run dev
 # or: cd frontend && npm run dev:mock
 ```
 
-Public: https://swapkodgire.github.io/Enterprise_governance_grid/
+Public: https://architecture-space.github.io/Enterprise-Governance-Grid/
 
 ## Demo routes
 

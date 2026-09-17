@@ -5,7 +5,7 @@
 | Status | POC blueprint · co-design 24 Aug |
 | Decision | 24 Aug workshop · confirm W6 |
 | Owner | Vincent (workshop) · workstream leads |
-| Demo | [/demo/customer360/questions?q=SQ3](https://swapkodgire.github.io/Enterprise_governance_grid/demo/customer360/questions?q=SQ3) (Strategic Qs page) |
+| Demo | [/demo/customer360/questions?q=SQ3](https://architecture-space.github.io/Enterprise-Governance-Grid/demo/customer360/questions?q=SQ3) (Strategic Qs page) |
 
 ## The question
 

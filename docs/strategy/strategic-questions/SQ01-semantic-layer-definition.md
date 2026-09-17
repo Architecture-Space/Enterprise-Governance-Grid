@@ -5,7 +5,7 @@
 | Status | POC recommendation · polish at W6 |
 | Decision | W6 leadership review |
 | Owner | Architecture |
-| Demo | [/demo/customer360/questions?q=SQ1](https://swapkodgire.github.io/Enterprise_governance_grid/demo/customer360/questions?q=SQ1) (Strategic Qs page) |
+| Demo | [/demo/customer360/questions?q=SQ1](https://architecture-space.github.io/Enterprise-Governance-Grid/demo/customer360/questions?q=SQ1) (Strategic Qs page) |
 
 ## The question
 

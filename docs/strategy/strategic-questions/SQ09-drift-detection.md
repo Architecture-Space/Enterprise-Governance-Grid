@@ -5,7 +5,7 @@
 | Status | Concept note · build autumn |
 | Decision | Concept at W6 |
 | Owner | Architecture |
-| Demo | [/demo/customer360/questions?q=SQ9](https://swapkodgire.github.io/Enterprise_governance_grid/demo/customer360/questions?q=SQ9) (Strategic Qs page) |
+| Demo | [/demo/customer360/questions?q=SQ9](https://architecture-space.github.io/Enterprise-Governance-Grid/demo/customer360/questions?q=SQ9) (Strategic Qs page) |
 
 ## The question
 

@@ -2,6 +2,8 @@
 
 Standalone **Enterprise Governance Grid** POC: marketing + demo tenant site, Neo4j contracts knowledge graph, pitch docs/examples, **contracts** packs, and **SQ1–SQ12** strategic answers.
 
+**Programme narrative:** [`docs/whitepaper/00. Enterprise Governance Grid White Paper.md`](docs/whitepaper/00.%20Enterprise%20Governance%20Grid%20White%20Paper.md)
+
 ## Repository layout
 
 ```text
@@ -11,7 +13,7 @@ backend/
   neo4j/                  Docker Neo4j + Cypher seeds + enrich
 contracts/                Business · Technical · Data Products · Semantic packs
   examples/               Master pitch + scenario JSON (UI + docs + KG narrative)
-docs/                     Architecture · demos · guides · kg · strategy
+docs/                     White paper · architecture · demos · guides · kg · strategy
 scripts/                  Setup A / Setup B bootstraps
 ```
 
@@ -61,7 +63,7 @@ cd ../../frontend && npm install && npm run dev
 
 ### Setup B — Mock (GitHub Pages + optional local mock)
 
-**Public URL:** [https://swapkodgire.github.io/Enterprise_governance_grid/](https://swapkodgire.github.io/Enterprise_governance_grid/)
+**Public URL:** [https://architecture-space.github.io/Enterprise-Governance-Grid/](https://architecture-space.github.io/Enterprise-Governance-Grid/)
 
 Same marketing + demo routes; Semantics uses exported snapshots (Q1–Q7, N1–N5, Q2 NATCOs, Q3 product families). No Neo4j.
 
@@ -95,7 +97,7 @@ POC recommendations for layer boundary, Git meaning SoR, experience, governance/
 | `frontend/` | Vite + React app |
 | `backend/api/` | KG API |
 | `backend/neo4j/` | Docker Neo4j + Cypher + contracts enrich |
-| `docs/` | POC docs · SQ1–SQ12 hub (sectioned) |
+| `docs/` | White paper · POC docs · SQ1–SQ12 hub (sectioned) |
 | `contracts/examples/` | Master pitch + scenario JSON |
 | `contracts/` | Business, Technical, Data Products, Semantic Control Plane |
 | `scripts/dev-local.sh` | Setup A bootstrap |

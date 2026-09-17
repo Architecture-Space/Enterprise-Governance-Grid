@@ -5,7 +5,7 @@
 | Status | POC specification draft |
 | Decision | Draft pre-workshop · ratify W6 |
 | Owner | Architecture |
-| Demo | [/demo/customer360/questions?q=SQ5](https://swapkodgire.github.io/Enterprise_governance_grid/demo/customer360/questions?q=SQ5) (Strategic Qs page) |
+| Demo | [/demo/customer360/questions?q=SQ5](https://architecture-space.github.io/Enterprise-Governance-Grid/demo/customer360/questions?q=SQ5) (Strategic Qs page) |
 
 ## The question
 
